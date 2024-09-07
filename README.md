@@ -1,10 +1,10 @@
 # Cafeteria_Automation_System
 In a world where technology meets convenience, we've crafted a system that revolutionizes your dining experience. Say goodbye to the hassles of queueing, store management nightmares, complicated payment processes, and the eternal struggle of finding a seat!
 
-🕒 Queue Management: Dive into efficiency.
-🛍️ Store Management: Experience seamless operations.
-💳 Payment Management: Transactions made swift.
-🪑 Table Seating Management: Say hello to instant seating.
+🕒 Queue Management: Dive into efficiency.<br>
+🛍️ Store Management: Experience seamless operations.<br>
+💳 Payment Management: Transactions made swift.<br>
+🪑 Table Seating Management: Say hello to instant seating.<br>
 
 Curious about the magic behind it? Every line of code, every user interface, and every functionality designed to make your cafeteria visits as smooth as your morning coffee, is now accessible.
 
