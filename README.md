@@ -8,6 +8,6 @@ In a world where technology meets convenience, we've crafted a system that revol
 
 Curious about the magic behind it? Every line of code, every user interface, and every functionality designed to make your cafeteria visits as smooth as your morning coffee, is now accessible.
 
-<h3>Runs on Aarduino ID</h3>
+<h3>Runs on Aarduino IDE</h3>
 
 A heartfelt thanks to our lecturer Mr. dinusha malshan for his invaluable guidance, and a huge shoutout to my incredible team members members Dulara Abhiranda Sadeepa Kaushan and Nadun Daluwatta and Dilini Prasaditha for their relentless dedication and expertise.
